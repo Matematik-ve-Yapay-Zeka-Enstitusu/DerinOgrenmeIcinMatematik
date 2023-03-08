@@ -14,6 +14,9 @@
 - Mathematics for Machine Learning
   https://mml-book.github.io
   
+- Dive into Deep Learning kitbının ek kısımları (Türkçe çevirisi var)
+  http://d2l.ai
+  
  - Açık erişimli diğer ilgili kitaplar 
   https://github.com/Matematik-ve-Yapay-Zeka-Enstitusu/Kitaplar
 
