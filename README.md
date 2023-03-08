@@ -14,4 +14,12 @@
 - Mathematics for Machine Learning
   https://mml-book.github.io
   
- - 
+ - Açık erişimli diğer ilgili kitaplar 
+  https://github.com/Matematik-ve-Yapay-Zeka-Enstitusu/Kitaplar
+
+# Kanallar
+
+- Matematik ve Yapay Zeka Enstitüsü
+  https://www.youtube.com/@matematikveyapayzeka
+  
+- Eklenecek
