@@ -27,3 +27,12 @@
   
 - 3Blue1Brown
   https://www.3blue1brown.com
+  
+ - W&B Math for ML
+  https://youtube.com/playlist?list=PLD80i8An1OEGZ2tYimemzwC3xqkU0jKUg
+  
+ - Tubingen Mahematics for ML
+  https://youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS
+  
+ - John Krohn
+  https://youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a
