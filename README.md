@@ -25,4 +25,5 @@
 - Matematik ve Yapay Zeka Enstitüsü
   https://www.youtube.com/@matematikveyapayzeka
   
-- Eklenecek
+- 3Blue1Brown
+  https://www.3blue1brown.com
